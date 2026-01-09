@@ -1,17 +1,18 @@
 ---
-import { type CollectionEntry, getCollection, render } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
 	return posts.map((post) => ({
+		// In Astro v5, use 'post.id' instead of 'post.slug'
 		params: { slug: post.id },
 		props: post,
 	}));
 }
-type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
+// In Astro v5, render() is an imported function, not a method on the post
 const { Content } = await render(post);
 ---
 
