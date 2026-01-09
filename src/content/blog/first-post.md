@@ -34,4 +34,4 @@ Yet, the dawn is coming, \
 The dark is breaking. \
 He who was, and is, and is to come, is coming.
 
-***For nothing is hidden that will not become evident, nor anything secret that will not be known and come to light.*** \
+***For nothing is hidden that will not become evident, nor anything secret that will not be known and come to light.*** 
