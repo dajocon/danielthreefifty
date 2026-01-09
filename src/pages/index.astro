@@ -21,10 +21,12 @@ const posts = (await getCollection('blog'))
 		width: 960px;
 		max-width: calc(100% - 2em);
 		margin: auto;
-		
-		padding: 1em 1em; 
 
-		/* Keep these to prevent the "sticky" stretching issue */
+		/* Top: 3em (Gives nice breathing room) */
+		/* Bottom: 0.5em (Small, because the list adds its own space) */
+		padding: 3em 1em 0.5em 1em; 
+
+		/* Keep your existing fixes */
 		min-height: auto;
 		flex-grow: 0;
 	}
