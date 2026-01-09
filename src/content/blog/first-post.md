@@ -17,14 +17,14 @@ Keep on looking, but do not understand. \
 Listening, we do not perceive. \
 Looking, we do not understand.
 
-But as the interpreter interprets the meaning of a dream, the gifted decode the parable of life. \
+As the interpreter interprets the meaning of a dream, the gifted decode the parable of life. \
 The prophet, seeing from the end, sees things as they are. \
 The artist, seeing from beauty, sees things as they are. \
 The author, seeing from pattern, sees things as they are.
 
 Yet, life remains a shadow. \
+An empty outline. \
 The Light covers all, but has been hidden. \
-What persists is a mere shadow.
 
 We do not love as we are loved, \
 We do not hope as we have hope, \
