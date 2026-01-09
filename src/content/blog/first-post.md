@@ -21,7 +21,7 @@ The author, seeing from pattern, sees things as they are.
 
 Yet, life remains a shadow. \
 An empty outline. \
-The Light covers all, but has been hidden. 
+The Light covers all, but we remain blind. 
 
 We do not love as we are loved, \
 We do not hope as we have hope, \
