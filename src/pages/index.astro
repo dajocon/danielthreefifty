@@ -21,7 +21,13 @@ const posts = (await getCollection('blog'))
 		width: 960px;
 		max-width: calc(100% - 2em);
 		margin: auto;
-		padding: 1em 1em;  <-- This is the culprit
+		
+		/* This is the key line: 3em Top/Bottom, 1em Left/Right */
+		padding: 3em 1em; 
+
+		/* Keep these to prevent the "sticky" stretching issue */
+		min-height: auto;
+		flex-grow: 0;
 	}
 
       ul {
