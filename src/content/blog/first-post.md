@@ -25,7 +25,7 @@ The Light covers all, but we remain blind.
 
 We do not love as we are loved, \
 We do not hope as we have hope, \
-We do not believe as we should believe. \ 
+We do not believe as we should believe. \
 We are far too content with the shadows the fire casts on the cave walls.
 
 Yet, the dawn is coming, \
