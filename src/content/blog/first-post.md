@@ -14,9 +14,6 @@ Keep on listening, but do not perceive; \
 Keep on looking, but do not understand. \
 ***Life is but a parable.***
 
-Listening, we do not perceive. \
-Looking, we do not understand.
-
 As the interpreter interprets the meaning of a dream, the gifted decode the parable of life. \
 The prophet, seeing from the end, sees things as they are. \
 The artist, seeing from beauty, sees things as they are. \
@@ -28,7 +25,8 @@ The Light covers all, but has been hidden.
 
 We do not love as we are loved, \
 We do not hope as we have hope, \
-We do not believe as we should believe.
+We do not believe as we should believe. \ 
+We are far too content with the shadows the fire casts on the cave walls.
 
 Yet, the dawn is coming, \
 The dark is breaking. \
