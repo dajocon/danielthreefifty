@@ -3,26 +3,22 @@ title: "The Tapestry is Woven"
 description: " "
 pubDate: 2026-1-27
 ---
-
 Do not wear clothes of wool and linen woven together. (Deuteronomy 22:11)
 
-The tapestry is being woven. \
-The Grand Architect prepares a mansion unseen. 
+The tapestry is woven. \
 
-
-Thoughts of failure, of worry, of rumination, of fear. \
-Fabrics mixed in from alien looms. 
-
+Threads of rumination, of fear. \
+Mixed fabrics smuggled from alien looms. \
+Worn in the mind like a tainted robe.
 
 What communion has light with darkness? \
-Our citizenship is in Heaven. \
+Our citizenship is in Heaven: \
 Hope, joy, peace, love. 
 
-
-Mixed fabrics burned. \
-Still clinging to the skin. \
-Grumbling fills the grimy air. 
+Burn the mixed fabric. \
 
 
-Does the clay say to the potter, “What are you doing?” \
-Or doubt the Maker has hands? 
+Does the garment say to the tailor, “What are you weaving?” \
+
+He who overcomes shall be clothed in white garments \ 
+And He who is, shall testify his name before His Father. 
