@@ -1,12 +1,12 @@
 ---
-title: "The Tapestry is Woven"
-description: "A reflection on purity of mind and the spiritual garment."
+title: "White Garments"
+description: ""
 pubDate: 2026-01-27
 ---
 
 Do not wear clothes of wool and linen woven together. (Deuteronomy 22:11)
 
-**The tapestry is woven.**
+**The garment is woven.**
 
 Threads of rumination, of fear.  
 Mixed fabrics smuggled from alien looms.  
