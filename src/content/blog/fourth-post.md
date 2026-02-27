@@ -4,7 +4,7 @@ description: ""
 pubDate: 2026-02-27
 ---
 
-Job 38:4-7
+Job 38:4-7 \
 “Where were you when I laid the earth’s foundation? \
     Tell me, if you understand. \
 Who marked off its dimensions? Surely you know! \
