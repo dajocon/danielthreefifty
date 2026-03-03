@@ -9,7 +9,7 @@ Hannah Lee \
 How much time is left to be \
 Here with me?
 
-Pretty, pretty all too soon \
+You're pretty, pretty all too soon \
 We all see our last full moon \
 As you ascend up to Thee
 
@@ -21,3 +21,4 @@ The grace you gave me to inherit \
 Always giving new life \
 The promise of eternal life \
 For my God given wife 
+
