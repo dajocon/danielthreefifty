@@ -6,19 +6,18 @@ heroImage: ''
 ---
 
 Hannah Lee \
-How long will you be \
-How long will you be \
-How long to be \
-With me \
+How much time is left to be \
+Here with me?
 
-Pretty, pretty soon \
-You’ll be going to Thee \
+Pretty, pretty all too soon \
+We all see our last full moon \
+As you ascend up to Thee
 
 Death comes for us all \
-But I promise I won’t bawl \
+But I promise to stand tall
 
 Father, into your hands I commend my spirit \
-You made me inherit \
-Always giving new life \
-God given wife \
-
+The grace you gave me to inherit \
+Always giving new life \ 
+The promise of eternal life \
+For my God given wife
