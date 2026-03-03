@@ -11,7 +11,7 @@ Hannah Lee \
 How much time is left to be \
 Here with me?
 
-You're pretty, pretty all too soon \
+Pretty, pretty all too soon \
 We all see our last full moon \
 As you ascend up to Thee
 
