@@ -1,6 +1,6 @@
 ---
 title: 'Hannah Lee'
-description: ''
+description: 'Hannah is taken from the TV show Dark. She is a character who does not love the man who she is having an affair with, but has an intense infatuation with him. She represents someone who cannot love because she doesn't love God. Lee is taken from the book East of Eden as a character that talks about how we can overcome pain, trials, and temptations when we set our mind to it.'
 pubDate: '3 Mar 2026'
 heroImage: ''
 ---
