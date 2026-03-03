@@ -16,7 +16,7 @@ We all see our last full moon \
 As you ascend up to Three
 
 Father, into your hands I commend my spirit \
-The grace you gave me to inherit \
+Thanks for the grace you gave me to inherit \
 Always giving new life \
 The promise of eternal life \
 For my God given wife 
