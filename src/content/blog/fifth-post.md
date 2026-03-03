@@ -5,6 +5,8 @@ pubDate: '3 Mar 2026'
 heroImage: ''
 ---
 
+*From the temptation to love the temporal more than the eternal, deliver us* 
+
 Hannah Lee \
 How much time is left to be \
 Here with me?
