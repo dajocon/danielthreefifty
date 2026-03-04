@@ -1,0 +1,31 @@
+---
+title: "Prayer"
+description: " "
+pubDate: 2026-03-04
+---
+
+There are many obstacles to cultivating a fruitful life of prayer in the contemporary world. First and foremost, since the moment we were born we have been indoctrinated into the philosophical paradigm of scientific materialism in ways we cannot completely appreciate. The God-given success of modern science in reducing poverty, healing the sick, and increasing connectivity has been nothing short of a miracle. However, even atheist philosophers since the 18th century have noted that the scientific method relies on certain assumptions that cannot reliably be made unless one believes in God. This means that scientific materialism is itself a faith. This is a topic for another discussion.
+
+Secondarily, modern life is full of distractions. Our dopamine receptors are constantly being bombarded with rewards and stimuli such that we find it hard to sit still and focus on something for long periods of time. We also expect instantaneous rewards. The spiritual life is more akin to a marathon than a sprint. Jesus likens the Kingdom of Heaven to a mustard seed, it starts small and grows slowly, until eventually, it bears great fruit. 
+
+The most beautiful thing though, is that prayer is in it of itself the answer to these two obstacles. A fruitful prayer life over many months and years will completely dissolve any assumptions about how reality is just matter in motion. Prayer is also the answer to the overstimulation of modern life, as it’s very calming and resets the nervous system. This has the added benefit of cultivating being able to enjoy food, entertainment, and time with others more. 
+
+Although I’m still a beginner to prayer, I’ve learned a lot over the past years. The rest of this article will be dedicated to giving you the best of what I have discovered. 
+
+When answering the question on the greatest commandment, Jesus refers to the human person as being a composite of “Heart, soul, and mind.” What does He mean by this? 
+
+Obviously Jesus is not referring to the heart as the physical bodily organ that pumps blood, He’s referring to the Hebrew concept of the heart as the place where our desires reside. The soul is the immortal, unique characteristic of our personality. The mind is the place where thoughts, images, impressions, and our ability to reason reside. Prayer involves all three of these aspects, involving our entire being. 
+
+When praying (I like the Rosary and the Jesus Prayer), we first go down into the heart, thinking of our deepest desires. One desire that we might want to cultivate at the start of our prayer life is for faith. What this will look like is unique to every individual soul, as we all have different callings, but what is universal to all is the trust in God’s presence in all things and the belief He wants to be in relationship with us. Thoughts, images, and impressions will enter into our mind as we pray and dwell on the contents of our heart. This is where the faculty of reason becomes paramount. Obviously, not all mental content that arises when we pray is from God. In fact, Scripture records even Jesus being tempted by Satan during His time praying and fasting in the desert. This is why cultivating watchfulness on what we allow our minds to dwell on during prayer is fundamental. 
+
+Resting on this desire in our mind, we begin to contemplate it as we recite the prayers. In addition to watchfulness, great humility is required here. We are easily taken captive by pride, greed, lust, and other temptations. If during contemplation we have a strong thought, impression, or image arise, it’s of the utmost importance to cross-reference it with Scripture, clergy, and experienced spiritual people in our life. Although some people seem to have prayers answered more in this way, I find my prayers to be answered more often in the external world in the days, months, and years later. I tend to run into people and events that speak to whatever my heart was bringing up in prayer. Patience is important here, and this is where it’s important to remember how our brains have been wired to expect instantaneous satisfaction in the modern age. 
+
+Prayer is most fruitful, of course, when paired with studying of Scripture and repentance. Scripture helps us discern certain people, events, thoughts, images, and impressions that may occur. Repentance helps us to align our hearts more with God. This is important if we want our prayers answered, as Jesus taught that prayers in alignment with God’s Will will never be unanswered. “If you abide in me, and my words abide in you, ask whatever you will, and it shall be done for you” (John 15:7).
+
+I will close this article with a prayer testimony. I was once very grieved after losing a close friend of a long time. I had a deep desire to make a new friend, and I prayed for this for many weeks. Then, I met someone playing an online game. I, uncharacteristically (for me), began talking to him every day for about two weeks. Then, accidentally, the discussion of where we live was broached. He said he lived in the southeast US. I said me too. Alabama. He replied, “Me too!” I said, “No way, Huntsville by chance?” “Yep. I live (in this area).” “Does it happen to be (this apartment complex)” “Dude what the hell, are you stalking me?” And a new close friend was made.
+
+As unlikely as it was, Divine Providence answered my prayer. We are close friends to this day. We have a lot in common, and many of the problems I have he’s dealt with before, and vice versa. We have really helped each other grow in faith and love. It is a very beautiful thing. I have many such stories, but this one is particularly touching to me and I think everyone can appreciate it.
+
+I hope and pray that you have a long and fruitful prayer life as you grow in faith, hope, and love. I love you, and always remember that no matter what happens, God is always for what’s best for you.  
+
+
