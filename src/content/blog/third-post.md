@@ -17,8 +17,3 @@ Our citizenship is in Heaven:
 Hope, joy, peace, love.
 
 **Burn the mixed fabric.**
-
-Does the garment say to the tailor, “What are you weaving?”
-
-He who overcomes shall be clothed in white garments.  
-And He who is, shall testify his name before His Father.
