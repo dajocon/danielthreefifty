@@ -19,9 +19,9 @@ The prophet, seeing from the end, sees things as they are. \
 The artist, seeing from beauty, sees things as they are. \
 The author, seeing from pattern, sees things as they are.
 
-Yet, life remains a shadow. \
+Yet, life remains a dark shadow. \
 An empty outline. \
-The Light covers all, but we remain blind. 
+The light covers all, but we remain blind. 
 
 We do not love as we are loved, \
 We do not hope as we have hope, \
