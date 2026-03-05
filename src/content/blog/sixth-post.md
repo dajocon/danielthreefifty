@@ -4,8 +4,8 @@ description: " "
 pubDate: 2026-03-04
 ---
 
-"People do not know how dangerous lovesongs can be... The movements which work revolutions in the world are born out of the dreams and visions in a peasant's heart on the hillside" \
-- James Joyce, *Ulysses* 
+"People do not know how dangerous lovesongs can be... The movements which work revolutions in the world are born out of the dreams and visions in a peasant's heart on the hillside" 
+\- James Joyce, *Ulysses* 
 
 There are many obstacles to cultivating a fruitful life of prayer in the contemporary world. First and foremost, since the moment we were born we have been indoctrinated into the philosophical paradigm of scientific materialism in ways we cannot completely appreciate. The God-given success of modern science in reducing poverty, healing the sick, and increasing connectivity has been nothing short of a miracle. However, even atheist philosophers since the 18th century have noted that the scientific method relies on certain assumptions that cannot reliably be made unless one believes in God. This means that scientific materialism is itself a faith. This is a topic for another discussion.
 
