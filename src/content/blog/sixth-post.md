@@ -4,14 +4,19 @@ description: " "
 pubDate: 2026-03-04
 ---
 
+Thankfully, nothing in this article is new or concieved of by me. I have simply compiled the teachings of the Hescyhasts and St. Ignatius of Loyola and combined it with my own experiences and testimony pertaining to different challenges and rewards I've encountered on my personal journey. I expect the reader to not take anything in this article definitively, but to instead view the text as someone who has experienced the joys of the fruits of prayer, and as a result has a desire to share it with others. **There is no "proper method" of prayer. As long as we have faith, hope, and love in our hearts when approaching Him, we are pleasing to God.**
+
+
 "People do not know how dangerous lovesongs can be... The movements which work revolutions in the world are born out of the dreams and visions in a peasant's heart on the hillside" \
 \- James Joyce, *Ulysses* 
+
+Joyce understood that our reality is shaped by the content of our heart. Freud concieved of unconcious desires as being the driving force of our conscious lives. If the prophets of the modern age got the diagnosis broadly correct, it's a wonder why we find ourselves so detached from ourselves and our own lives. It's my strong belief that prayer is what has been lost, and when recovered revolutionizes one's life. 
 
 There are many obstacles to cultivating a fruitful life of prayer in the contemporary world. First and foremost, since the moment we were born we have been indoctrinated into the philosophical paradigm of scientific materialism in ways we cannot completely appreciate. The God-given success of modern science in reducing poverty, healing the sick, and increasing connectivity has been nothing short of a miracle. However, even atheist philosophers since the 18th century have noted that the scientific method relies on certain assumptions that cannot reliably be made unless one believes in God. This means that scientific materialism is itself a faith. This is a topic for another discussion.
 
 Secondarily, modern life is full of distractions. Our dopamine receptors are constantly being bombarded with rewards and stimuli such that we find it hard to sit still and focus on something for long periods of time. We also expect instantaneous rewards. The spiritual life is more akin to a marathon than a sprint. Jesus likens the Kingdom of Heaven to a mustard seed, it starts small and grows slowly, until eventually, it bears great fruit. 
 
-The most beautiful thing though, is that prayer is in it of itself the answer to these two obstacles. A fruitful prayer life over many months and years will completely dissolve any assumptions about how reality is just matter in motion. Prayer is also the answer to the overstimulation of modern life, as it’s very calming and resets the nervous system. This has the added benefit of cultivating being able to enjoy food, entertainment, and time with others more. 
+The most beautiful thing though, is that prayer in and of itself the answer to these two obstacles. A fruitful prayer life over many months and years will completely dissolve any assumptions about how reality is just matter in motion. Prayer is also the answer to the overstimulation of modern life, as it’s very calming and resets the nervous system. This has the added benefit of cultivating being able to enjoy food, entertainment, and time with others more. 
 
 Although I’m still a beginner to prayer, I’ve learned a lot over the past years. The rest of this article will be dedicated to giving you the best of what I have discovered. 
 
